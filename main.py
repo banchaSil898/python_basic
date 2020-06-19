@@ -18,31 +18,31 @@ def main():
         clear = lambda: os.system('cls')
         clear()
         if user_input == 1:
-            show_dir('asdf;lkajsdf')
+            set_cover(show_dir, 'asdf;lkajsdf')
         elif user_input == 2:
-            multiple_calculate()
+            set_cover(multiple_calculate)
         elif user_input == 3:
-            step_for()
+            set_cover(step_for)
         elif user_input == 4:
-            single_argument()
+            set_cover(single_argument)
         elif user_input == 5:
-            multiple_argument()
+            set_cover(multiple_argument)
         elif user_input == 6:
-            calculate_argument()
+            set_cover(calculate_argument)
         elif user_input == 7:
-            argument_by_number()
+            set_cover(argument_by_number)
         elif user_input == 8:
-            argument_alias()
+            set_cover(argument_alias)
         elif user_input == 9:
-            locals_argument()
+            set_cover(locals_argument)
         elif user_input == 10:
-            sequence_tuple()
+            set_cover(sequence_tuple)
         elif user_input == 11:
-            sequence_list()
+            set_cover(sequence_list)
         elif user_input == 12:
-            sequence_dictionary()
+            set_cover(sequence_dictionary)
         elif user_input == 13:
-            input_function()
+            set_cover(input_function)
         elif user_input == 99:
             break
 
@@ -75,5 +75,12 @@ def step_for():
     for from_neg50_21_step10 in range(-50, 10, 10):
         print(from_neg50_21_step10)
 
+def set_cover(func, param=None):
+    print("===============================")
+    if param:
+        func(param)
+    else:
+        func()
+    print("===============================")
 
 main()
