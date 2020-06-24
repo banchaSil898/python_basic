@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mcochai-dropship",
+  "private_key_id": "c544f4aebe635226325907e7eca9b02b4a40bda6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCgfPZlh1bMlFTR\nO7D/1ZSBF6AVe/IndaYT430mHEy44GDQ+entjZoN68phUKqaB0NyaFklwwXJ3YCU\nXI2SYYCqNP3b0NmYkJNrDT+WmBP6khO2nhIciAY4f1N2n4UnHw/j6WRJp1QUn6G2\ne6PbDuFlEIhKVCSKZQH1JWkwnj0S0B1IY+AWWG50xT1VKVyy9nx4QoX80gwK9QRW\nDC6Un6qebedjv6M3iDJcDk1hKzdhz/97vbOBYE+EA0YDncw0tmG7jOd7Kof24isw\nw3apDUwBmqUBiSWIRTvib/IlLOiB+4TPw0TNnoLBckqJtGKVxEvTZLoyfQXsG6LN\nEbZHG9VNAgMBAAECgf9ZfVTnyE/eQ9gH1AEepznnwgTB9htRZYj2DiP63EzryjIy\nVSjcDdmZaaGwIgr/WI2Dfiw3okfYCGtqTzGiLjxQrLvhltO+/t81Em4iyypYzpuv\nePUgc7kER/uCafEVn3x82efSKjv4RAsodkkoHWQRtuZIjCLUCP7Oc830Dkh/9Cna\nxZuQMVukdVEwHOUDPci6CQQzUejv10GgK1y9lyX/itg3U3O6uG0eCqhE+IS9EhCw\nBL8m10cfEnZN698Ov231ux+io7lVXnb6SeEk9kVCjvWfXocj7FEaYDQJvrTB0Jtq\nMltp1YxNk50Qea78xyYz7SsreZPuvuviAGyS8QkCgYEA2CxIB8m1z4oLiGq7nza0\netPyBzpx8vWvo2eiWoxfGT8l4q2PCz2Lv4kihdhbUu9Zi6JYJvFMOwBc7h34DZM+\nxuQCVXwg5lBG9AjREmEWKVHwuWO6cxG+eP5i3lwngxrblWJWcg7ggChu9XRfyZhA\nu7EcrCUItHjaqCUwhgdpK3UCgYEAvg5TgZ4kVMngyNQjKxpG2rGj5eb768ny/JBl\nXdU6CrZdX0KpV8PgX2NXyMUbl9rD6xeQtQ5aJZ5e6HuZxdeAmDpV9xyaskmiTWZC\nc6UOJzhDwSX14YVozLUUJlJOCX2BBPvmSHXEzeV0dnSqrpPGkYNvSmfCx/oSKmWp\n8OXSv3kCgYB2nRWI8G0KS7y4RZhdbC7rlpAe1zrfDWAqURsMhClKORQYpRLwH/0m\nQ6DlwCmcACkqLRIhjBU/6psTLO6GxFyV1VZSgaGrvjCwhoXxh8QZOBTWJJqRuRLC\nYRLu37HuhjYmaab1PqSAra70j75fZ2NdmXkaG9gC7q1LxdwyLq7OYQKBgEgKkijN\n0yO4qlY142bRPQ5ky6W32sJT+KE38tSQoMGyws37LMmx2/kMZRgbbwwuxpj0g8u9\ntvoPgBZL08wklgAeDLvwwcrXEoiYPJQteqHvN++c/gkQUttVwF+OTzpVsnQ7L91D\nlugdE/pa2t/18Az0b1ka38CB0CT2CGbiFvKxAoGAQUhxCX8AdQSqZ9NNx2VdimTO\n7hmrF7F4v+XxpmVbougsB88wpXrrDv0NL5Z9Jr074R5ceIgICSPCH9GtJ4MwckbI\n4GRVq1HtZmL5GeDlenOgB4jwIbdqzI99ZkhF3mUbMv498mgd+qwgKU2l+VLZVjr5\nSTLCXFFi4jlGyVWnUhU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service@mcochai-dropship.iam.gserviceaccount.com",
+  "client_id": "105929172179635394387",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service%40mcochai-dropship.iam.gserviceaccount.com"
+}
