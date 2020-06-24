@@ -15,7 +15,7 @@ def main():
         print('13. show control flow by condition')
         print('99. exit')
         user_input = int(input('Choice function by number '))
-        clear = lambda: os.system('cls')
+        clear = lambda: os.system('cls') #accually lambda is slow than normally function
         clear()
         if user_input == 1:
             set_cover(show_dir, 'asdf;lkajsdf')
