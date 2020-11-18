@@ -48,6 +48,7 @@ try:
     while True:
         time.sleep(10)
 except KeyboardInterrupt:
+    print("except!!!")
     observer.stop()
 observer.join()
             
